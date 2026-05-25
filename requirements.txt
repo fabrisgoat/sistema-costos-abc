@@ -1,0 +1,12 @@
+PyQt5==5.15.9
+pandas==2.1.1
+openpyxl==3.10.10
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+sqlalchemy==2.0.20
+sqlite3-python==1.0.0
+pyinstaller==6.0.0
+reportlab==4.0.4
+python-dateutil==2.8.2
+requests==2.31.0
